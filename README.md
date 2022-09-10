@@ -5,11 +5,11 @@
 
 
 - #### My techs 💻
-<img src="https://user-images.githubusercontent.com/104280692/185771742-7554221b-c7bb-4c43-b80a-d80a3d13bdce.png" height="30px"></img>
-<img src="https://user-images.githubusercontent.com/104280692/185771743-fa0b2067-7d72-4fcb-a794-76dd750f26d5.png" height="30px"></img>
-<img src="https://user-images.githubusercontent.com/104280692/185771744-dbb6de73-da45-4d31-b285-f75b1a8ef18a.png" height="30px"></img>
-<img src="https://user-images.githubusercontent.com/104280692/185771745-35e84f50-fff9-4efc-9dcb-064329eace67.png" height="30px"></img>
-<img src="https://user-images.githubusercontent.com/104280692/185771746-75919481-c321-4675-bbb4-7a31d6cecaed.png" height="30px"></img>
+
+<img src="https://user-images.githubusercontent.com/104280692/185771743-fa0b2067-7d72-4fcb-a794-76dd750f26d5.png" height="50px"></img>
+<img src="https://user-images.githubusercontent.com/104280692/185771745-35e84f50-fff9-4efc-9dcb-064329eace67.png" height="50px"></img>
+<img src="https://user-images.githubusercontent.com/104280692/185771742-7554221b-c7bb-4c43-b80a-d80a3d13bdce.png" height="50px"></img>
+<img src="https://user-images.githubusercontent.com/104280692/185771746-75919481-c321-4675-bbb4-7a31d6cecaed.png" height="50px"></img>
 
 - #### My Badges
 <img src="https://user-images.githubusercontent.com/104280692/185771447-f79d1b55-f7db-4b00-932b-7a1677af4eca.png" height="50px"></img>
