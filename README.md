@@ -6,11 +6,14 @@
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/104280692/185771743-fa0b2067-7d72-4fcb-a794-76dd750f26d5.png" height="70px"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70px"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="70px"/>
 <img src="https://user-images.githubusercontent.com/104280692/185771745-35e84f50-fff9-4efc-9dcb-064329eace67.png" height="70px"></img>
 <img src="https://user-images.githubusercontent.com/104280692/185771742-7554221b-c7bb-4c43-b80a-d80a3d13bdce.png" height="70px"></img>
 <img src="https://user-images.githubusercontent.com/104280692/185771746-75919481-c321-4675-bbb4-7a31d6cecaed.png" height="70px"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70px"/>
 <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" height="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70px"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="70px"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="70px"/></div>
 
